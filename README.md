@@ -17,4 +17,4 @@ This task was part of my DevOps internship. The goal was to host a simple static
 
 ##  Live Website
 
-    - https://ajith10000.github.io/static-website/
+    https://ajith10000.github.io/static-website/
